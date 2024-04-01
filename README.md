@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=YuNyuk&fontSize=70&)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=300&section=header&text=YuNyuk&fontSize=70&)
 
 ### 임베디드 S/W 개발자 꿈나무 유녁의 깃허브 👋
 
