@@ -9,6 +9,7 @@
 - 🧑‍💼 Also I'm currently looking for a job.
 - 🌱 I’m currently learning ...   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 - 📫 How to reach me: ... <a href="mailto:hsw970321@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsw970321@gmail.com"/></a> <br> <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuNyuk)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=YuNyuk" height="165">
